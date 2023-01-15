@@ -1,4 +1,4 @@
-# Big Game Survey 
+# Projeto Ecommerce - GreatKart 
 [![NPM](https://img.shields.io/npm/l/react)](https://https://github.com/ValteirLuciano/django1/blob/master/LICENCE) 
 
 # Sobre o projeto

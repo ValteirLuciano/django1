@@ -22,16 +22,13 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 
 # Tecnologias utilizadas
 ## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
+- Python
+- Django Framework
 ## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
+- HTML / CSS / JS / Bootstrap
+- CSS
+- Javascript
+- Bootstrap4
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify

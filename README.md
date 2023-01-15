@@ -25,7 +25,7 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 - Python
 - Django Framework
 ## Front end
-- HTML / CSS / JS / Bootstrap
+- HTML
 - CSS
 - Javascript
 - Bootstrap4
@@ -38,6 +38,8 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 
 ## Back end
 Pré-requisitos: Java 11
+python3 -m venv venv source myenv/bin/activate pip install -r requirements.txt
+
 
 ```bash
 # clonar repositório
